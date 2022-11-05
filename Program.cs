@@ -1,4 +1,4 @@
-namespace Opdracht5
+namespace oef2
 {
     internal static class Program
     {
